@@ -1,0 +1,9 @@
+.env
+**/.terraform/*
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.log
+*.nohup.out
+*..terraform.tfstate.lock.info
+ami-vars.json
